@@ -103,6 +103,16 @@ footer a {
   color: white;
 }
 
+.how_to_use h1, .how_to_use h2, .how_to_use p {
+  text-align: left;
+  padding-left: 2em;
+}
+.how_to_use h1 {
+}
+.how_to_use h2 {
+  font-weight: 400;
+}
+
 .tooltip {
     position: relative;
     display: inline-block;
